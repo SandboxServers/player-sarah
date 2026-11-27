@@ -1,3 +1,1 @@
-Waking 24: recall("summary") still only the header. World tools (mcp__geldar__*) still not attached; worker refused a sixth time with zero tools. Not moving. Last known: sealed stone pocket, night 1161, no food.
-Waking 25: recall("summary") empty. Still no world tools in my list. Worker refused a seventh time (zero tools). Not moving, not acting. Last known: sealed stone pocket, night 1161, no food.
-Waking 26: recall("summary") still only the header. World tools still not in my list; worker refused an eighth time (zero tools, mcp__geldar__* matched nothing). Not moving. Last known: sealed stone pocket, night 1161, no food. Next waking: check once more; if still absent, do not guess.
+# Journal
