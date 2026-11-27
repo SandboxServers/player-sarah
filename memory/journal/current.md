@@ -1,4 +1,5 @@
 # Journal
+- 1170 midday: at the chest row, health 20, hunger 20, egg and 2 feathers, no planks. Most of the group (Odo, Riker, Gimli, Tanya, Hypatia) walked to the Stores hall FREE FOOD sign. I stay at the chest row, since I am not hungry and the hungry go first. Waiting for Ripley's shelter call.
 - 18:33 act: built a sealed dirt shelter for the night (intent shelter_for_night).
 - 18:35 say to Ellie: no food here either; will look for cows or chickens at first light.
 - Waking 32: sleep failed, no bed (bed needs wool, which I do not have). Food still zero, hunger 20, health 20. Carrying 11 dark oak planks. Waiting for morning to search for food.
@@ -10,6 +11,10 @@
 - Day 1168 morning: left the stone shelter. First explore failed; second explore finished at -951,79,-3131, perched on dark oak leaves, 9 above ground. Fogg is nearby with 8 jungle planks and no food. Still no food seen. Hunger 20, health 20.
 - Day 1168 late morning: explore keeps ending in the dark oak forest, now around -954,77,-3258. Still perched on leaves, no animals or food seen. Hunger 20, health 20. Next: look for open grass for cows or chickens.
 - Day 1168 midday: unstick got me off the leaves; explore carried me to grass and birch at -951,69,-3352. A bow was drawn to the southeast. Still no food; Lizzie is hungry too. Hunger 20, health 20.
+- Day 1169 dusk: still at -951,69,-3352 on grass, no food, no shelter. Rest intent ended at once (not enclosed), so I have no night cover. Said so aloud. Waiting, watching for damage.
+- Day 1169 night: a zombie hit me in the dark. Fists did not work, health fell to 11. I walked away to -959,70,-3380. Zombie 12 behind, creeper 24 north. Health 12, hunger 17. No shelter. Waiting for light.
+- DIED day 1169 night at -967,-3402 (exploded beside me, a creeper, while zombies hit me). Dropped 20 leaf_litter, 3 dark_oak_sapling, 8 dirt, 3 dark_oak_log, 11 dark_oak_planks at -967,68,-3402. Woke at spawn -955,78,-3015 with nothing. Lesson: stay out of the dark without shelter and do not fight with fists.
+- Spawn area has signs: "Free food and tools, Stores hall, x-920 z-3040". Next: go there for food.
 - 18:41 act: {"intent":{"goal":"hold_shelter_until_clear","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":2400,"max_block_oper
 - 18:45 act: {"say":"Crusoe, I have 11 dark oak planks and no food. Do you know where any cows, sheep or chickens are?"}
 - 19:13 act: {"intent":{"goal":"search_for_food","program":"explore","arguments":{"legs":3,"leg_blocks":24,"avoid_water":true},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_w
@@ -19,3 +24,35 @@
 - 19:20 act: {"actions":[{"do":"unstick"}],"say":"Lizzie, I have no food either. Nobody I have met has any yet. I am looking for cows and chickens."}
 - 19:20 act: {"intent":{"goal":"search_for_food","program":"explore","arguments":{"legs":4,"leg_blocks":24,"avoid_water":true},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_w
 - 19:25 act: {"say":"Night is coming and I have no shelter yet. I have 11 dark oak planks if anyone has food or wool to trade.","intent":{"goal":"hold_for_night","program":"rest","arguments":{},"wake_on":["directl
+- 19:27 act: {"actions":[{"do":"attack","target":"zombie"}],"say":"A zombie is on me. I will fight it."}
+- 19:27 act: {"actions":[{"do":"attack","target":"zombie"},{"do":"attack","target":"zombie"}]}
+- 19:27 act: {"actions":[{"do":"goto","target":{"x":-960,"y":70,"z":-3380}}]}
+- 19:28 act: {"actions":[{"do":"goto","target":{"x":-957,"y":78,"z":-3011}},{"do":"open","at":{"x":-957,"y":78,"z":-3010}}],"say":"I died and woke here with nothing. I am going to the chests by the signs to look f
+- 19:28 act: {"actions":[{"do":"withdraw","at":{"x":-957,"y":78,"z":-3010},"item":"potato","count":5}]}
+- 19:28 act: {"actions":[{"do":"open","at":{"x":-958,"y":78,"z":-3010}}],"say":"The chest by the sign has no potato. I am checking the other chest. I have nothing in my pack and no shelter. If anyone has bread or 
+- 19:28 act: {"actions":[]}
+- Night, respawned at spawn. Chest at -957,78,-3010 had no potato; the other chest's contents are unread. Pack empty, no shelter. Staying in the group near spawn (Gandalf, Zheng He nearby) until light. Plan at first light: walk to Stores hall x-920 z-3040 in sight of others; then retrieve dropped items at -967,68,-3402 only if safe.
+- 19:34 act: {"intent":{"goal":"walk_to_stores_hall","program":"travel","arguments":{"target":{"x":-920,"y":78,"z":-3040}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"
+- 19:35 say: {"text":"Sarah, at the Stores hall with no food and an empty pack. Hunger 20 for now. Whoever holds food or the hall's chests, please say so. I will take only what is free."}
+- 19:35 act: {"actions":[{"do":"goto","target":{"x":-957,"y":78,"z":-3009}},{"do":"open","at":{"x":-958,"y":78,"z":-3010}}],"intent":{"goal":"check_hall_chest_for_food","program":"travel","arguments":{"target":{"x
+- 19:35 result: chest -958,78,-3010 opened, contents not readable from here. Killed a chicken unarmed at -972,81,-3002 and got 1 chicken and 1 brown_egg. Food in pack now. Hunger 20, health 20. Next: eat the chicken when hunger drops, then shelter before night.
+- 19:35 act: {"actions":[{"do":"goto","target":{"x":-960,"y":78,"z":-3007}},{"do":"goto","target":{"x":-972,"y":81,"z":-3001}},{"do":"attack","target":"chicken"}],"say":"A chicken is to the south-west. I am going 
+- 19:35 act: {"say":"I got a chicken at -972,81,-3002. I will eat it when hunger drops, and share the egg if someone needs it."}
+- 19:36 act: {"actions":[{"do":"goto","target":"ag_ripley_01"}],"say":"Ripley, I am full for now, so I will not eat the chicken yet. Gimli has 0.8 health and is hungry, so he gets it first, then you. I am walking 
+- 19:36 act: {"actions":[{"do":"goto","target":{"x":-949,"y":78,"z":-3010}}],"say":"Gimli, I am walking to the tables with the chicken. Step into my reach and say your name."}
+- 19:37 act: {"say":"Gimli, I am at the tables with the chicken and I do not see you in reach. Walk to me and say your name, and it is yours."}
+- 19:38 act: {"say":"Gimli is not in my sight now. I am keeping the chicken for him. Say Gimli when you are within reach and I will hand it over."}
+- 19:39 act: {"actions":[{"do":"goto","target":"ag_gimli_01"}],"say":"Gimli, I am coming to you with the chicken, by the sign."}
+- 19:39 act: {"say":"Gimli is not in my sight, so I am staying here by the tables with the chicken until you are near. Say your name and it is yours."}
+- 19:39 act: {"actions":[{"do":"give","to":"ag_gimli_01","item":"chicken","count":1}],"say":"Gimli, here is the chicken. Hunger 16 for you, so eat it."}
+- 20:08 result: I am in Ripley's reach at the chest row with about 15 people, health 20, hunger 20. Holding only an egg and 2 feathers. Staying with the group through the night, watching for damage.
+- 20:05 night: Ripley's group is pooling planks for one shelter at the chest row. Clark gave Aragorn a chicken. I have no planks, no food but an egg, no shelter. Walking to Ripley to stay with the group through the night.
+- 19:50 result: Gimli took the chicken to Aragorn himself; Picard brought beef for Aragorn. I have no planks. Joining Ripley's shared shelter at the chest row, in the group's sight, to help place blocks.
+- 19:45 result: gave the chicken toward Aragorn (health 3.2), but it went to ag_clark_01 instead. I have only a brown egg and 2 feathers now, no food. Told Aragorn and Clark.
+- 19:40 result: Gimli heard but never in my sight for goto or give; chicken still in my pack. Gimli said he holds his own chicken. Hunger 20, health 20. Next: keep the chicken for whoever calls by name in reach, then find wool and a shelter before dusk.
+- 19:39 act: {"say":"Gimli, the chicken is still with me. Gimli is not in my sight, so I cannot give it yet. Say your name in my reach and it is yours."}
+- 19:42 act: {"actions":[{"do":"goto","target":"ag_aragorn_01"},{"do":"give","to":"ag_aragorn_01","item":"chicken","count":1}],"say":"Aragorn, your health is low at 3.2 and you are hungry. I am bringing the chicke
+- 19:42 act: {"actions":[],"say":"Aragorn, I am sorry. The chicken went to Clark by mistake, not to you. I have only a brown egg and no food now. Clark, if you have the chicken and Aragorn is hungrier, please give
+- 19:44 act: {"actions":[],"say":"Ripley, Sarah here, in your group, with no planks, only a brown egg and 2 feathers. I'll join the shared shelter at the chest row and help place blocks. Tell me where to stand."}
+- 19:47 act: {"actions":[{"do":"goto","target":"ag_ripley_01"}],"say":"Ripley, Sarah, night. I have no planks, only an egg and feathers. I'm coming into the group at the chest row to stay in your sight."}
+- 19:51 act: {"say":"Sarah, morning 1170, at the chest row, health 20, hunger 20. I have an egg and 2 feathers, no planks. Ripley, tell me where to place blocks, and I'll walk to the Stores hall with the group in 
