@@ -1,1 +1,34 @@
 # Journal
+- Night 1163: sealed in stone pit at -958,68,-3092. No bed, so sleep failed. Waited out the night. Health 20, hunger 20.
+- Morning: still underground, dirt walls. A bow was drawn to the north. Started explore (3 legs) to look for food, avoiding water.
+- Food still unknown. Knope/Galileo and Ellie/Legolas/Adam/Sattler are building near the tables.
+- 17:44 act: {"actions":[{"do":"unstick"}],"say":"Anyone with spare food nearby? I have none, and I'm trying to get up out of this pit."}
+- 17:44 act: {"actions":[{"do":"goto","target":{"x":-954,"y":72,"z":-3096}}]}
+- 17:46 act: {"actions":[{"do":"break","at":{"x":-957,"y":69,"z":-3093}},{"do":"break","at":{"x":-957,"y":70,"z":-3093}}]}
+- 17:47 act: {"actions":[{"do":"mine","block":"dirt","count":1},{"do":"unstick"}]}
+- 17:47 act: {"actions":[],"intent":{"goal":"find_food_nearby","program":"explore","arguments":{"legs":2,"leg_blocks":12,"avoid_water":true},"wake_on":["directly_addressed","unexpected_damage","goal_completed","pr
+- 17:47 act: {"actions":[{"do":"unstick"}],"say":"I'm up in the leaves, out of the pit now. No food yet. I'm getting down and looking for food."}
+- 17:47 act: {"actions":[{"do":"unstick"},{"do":"unstick"}]}
+- 17:47 act: {"actions":[{"do":"unstick"},{"do":"unstick"},{"do":"unstick"}]}
+- 17:47 act: {"actions":[{"do":"unstick"},{"do":"unstick"},{"do":"unstick"},{"do":"unstick"},{"do":"unstick"},{"do":"unstick"}]}
+- 17:47 act: {"actions":[],"intent":{"goal":"get_down_and_find_food","program":"explore","arguments":{"legs":2,"leg_blocks":10,"avoid_water":true},"wake_on":["directly_addressed","unexpected_damage","goal_complete
+- 17:47 act: {"actions":[{"do":"unstick"},{"do":"unstick"},{"do":"unstick"}],"say":"Ellie, I'm stuck up in the leaves and I have no food. Do you have any spare food? I'll trade planks for it."}
+- 17:48 act: {"actions":[{"do":"mine","block":"dark_oak_leaves","count":1},{"do":"unstick"}]}
+- 17:48 act: {"actions":[{"do":"unstick"},{"do":"unstick"},{"do":"unstick"},{"do":"unstick"},{"do":"unstick"},{"do":"unstick"}]}
+- 17:48 act: {"actions":[{"do":"unstick"},{"do":"unstick"},{"do":"unstick"}]}
+- 17:51 say: {"text":"Ellie, Sarah here. I'm still perched in the leaves and it's dusk. I have no food. I'll hold here and get down at first light."}
+- 17:59 act: {"actions":[{"do":"unstick"},{"do":"unstick"},{"do":"unstick"}],"say":"Dawn. Getting down from the leaves now, then I'm looking for food.","intent":{"goal":"get_down_and_find_food","program":"explore"
+- 18:03 act: {"actions":[{"do":"break","at":{"x":-955,"y":77,"z":-3133}},{"do":"break","at":{"x":-955,"y":76,"z":-3133}},{"do":"unstick"}],"say":"Clearing the leaves under me to drop down toward the ground."}
+- 18:03 act: {"actions":[{"do":"mine","block":"dark_oak_leaves","count":1},{"do":"unstick"},{"do":"unstick"}]}
+- 18:04 act: {"actions":[],"intent":{"goal":"find_food_nearby","program":"explore","arguments":{"legs":3,"leg_blocks":12,"avoid_water":true},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"l
+- 18:04 act: {"actions":[{"do":"mine","block":"dark_oak_leaves","count":1},{"do":"unstick"},{"do":"unstick"}],"say":"Explore took me back into the dark oak canopy. No food here. I'm getting down and I'll head back
+- 18:04 act: {"actions":[{"do":"unstick"},{"do":"unstick"},{"do":"unstick"},{"do":"unstick"}]}
+- 18:04 act: {"actions":[{"do":"unstick"},{"do":"unstick"},{"do":"unstick"},{"do":"unstick"},{"do":"unstick"},{"do":"unstick"}]}
+- 18:04 act: {"actions":[{"do":"goto","target":{"x":-946,"y":70,"z":-3176}}],"say":"Heading off the leaves to the north to drop to the ground. Then food."}
+- 18:05 act: {"actions":[{"do":"unstick"},{"do":"unstick"},{"do":"unstick"}],"say":"Sparrow, I'm still up in the dark oak leaves, about 8 blocks up. I don't know the trunk's way yet. I'm working down."}
+- 18:05 act: {"actions":[{"do":"unstick"},{"do":"unstick"},{"do":"unstick"},{"do":"unstick"}]}
+- 18:05 act: {"actions":[{"do":"mine","block":"dark_oak_leaves","count":1},{"do":"unstick"},{"do":"mine","block":"dark_oak_leaves","count":1},{"do":"unstick"}]}
+- 18:05 act: {"actions":[{"do":"mine","block":"dark_oak_leaves","count":1},{"do":"unstick"},{"do":"unstick"},{"do":"unstick"}]}
+- 18:05 act: {"actions":[{"do":"mine","block":"dark_oak_leaves","count":1},{"do":"unstick"},{"do":"unstick"},{"do":"unstick"},{"do":"unstick"}]}
+- 18:06 act: {"actions":[],"say":"Sparrow, I'm off the leaves now, standing on a dark oak trunk at about -947,76,-3170. I still have no food. Anyone with spare food, I'll trade planks."}
+- 18:10 act: {"actions":[{"do":"goto","target":{"x":-954,"y":70,"z":-3096}}],"intent":{"goal":"return_to_tables_for_food","program":"travel","arguments":{"target":{"x":-954,"y":70,"z":-3096}},"wake_on":["directly_
