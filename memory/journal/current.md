@@ -8,9 +8,14 @@
 - Day 1167 day again: still sealed, health 20, hunger 20. Bows keep being drawn to the north and northwest, so I am not going out. Next: when hunger drops or the sounds stop, go for food.
 - Day 1168 dusk: still sealed in stone, health 20, hunger 20, no bow sounds for a while. Staying in for the night; no bed, no food yet.
 - Day 1168 morning: left the stone shelter. First explore failed; second explore finished at -951,79,-3131, perched on dark oak leaves, 9 above ground. Fogg is nearby with 8 jungle planks and no food. Still no food seen. Hunger 20, health 20.
+- Day 1168 late morning: explore keeps ending in the dark oak forest, now around -954,77,-3258. Still perched on leaves, no animals or food seen. Hunger 20, health 20. Next: look for open grass for cows or chickens.
+- Day 1168 midday: unstick got me off the leaves; explore carried me to grass and birch at -951,69,-3352. A bow was drawn to the southeast. Still no food; Lizzie is hungry too. Hunger 20, health 20.
 - 18:41 act: {"intent":{"goal":"hold_shelter_until_clear","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":2400,"max_block_oper
 - 18:45 act: {"say":"Crusoe, I have 11 dark oak planks and no food. Do you know where any cows, sheep or chickens are?"}
 - 19:13 act: {"intent":{"goal":"search_for_food","program":"explore","arguments":{"legs":3,"leg_blocks":24,"avoid_water":true},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_w
 - 19:15 act: {"intent":{"goal":"search_for_food","program":"explore","arguments":{"legs":2,"leg_blocks":16,"avoid_water":true},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_w
 - 19:15 act: {"intent":{"goal":"search_for_food","program":"explore","arguments":{"legs":2,"leg_blocks":16,"avoid_water":true},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_w
 - 19:15 act: {"intent":{"goal":"search_for_food","program":"explore","arguments":{"legs":4,"leg_blocks":24,"avoid_water":true},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_w
+- 19:20 act: {"actions":[{"do":"unstick"}],"say":"Lizzie, I have no food either. Nobody I have met has any yet. I am looking for cows and chickens."}
+- 19:20 act: {"intent":{"goal":"search_for_food","program":"explore","arguments":{"legs":4,"leg_blocks":24,"avoid_water":true},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_w
+- 19:25 act: {"say":"Night is coming and I have no shelter yet. I have 11 dark oak planks if anyone has food or wool to trade.","intent":{"goal":"hold_for_night","program":"rest","arguments":{},"wake_on":["directl
