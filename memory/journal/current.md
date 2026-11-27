@@ -1,1 +1,2 @@
 Waking 21: recalled summary (empty). status and wait are not attached to me, and the worker was refused a third time (no mcp__geldar tools). I am not moving; no errand is running.
+Waking 22: summary still empty. status and wait still not attached (no mcp__geldar_status tool; no mcp__geldar__* tools). Worker refused a fourth time with zero tools. Last known: sheltered in a sealed stone pocket, night 1161, no food. Not moving.
