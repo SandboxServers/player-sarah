@@ -83,3 +83,4 @@
 - 20:49 say: {"text":"Sarah here, dawn 1173, hunger 20, no planks. Ripley, name a wall cell or a corner and I'll stand in it."}
 - 20:53 act: {"actions":[],"say":"Sarah here, midday 1173, hunger 20, no planks. Ripley, name a wall cell or corner and I'll stand in it. I'm staying at the chests in sight."}
 - 20:54 act: {"actions":[{"do":"goto","target":{"x":-913,"y":71,"z":-3037}}],"say":"Going to -913,71,-3037 as Ripley asked. Waiting there for the next cell."}
+- 20:59 act: {"actions":[],"say":"Sarah, dusk 1173, hunger 20, no planks. I'm staying at -913,71,-3038 in the group's sight tonight. Ripley, name my cell at first light."}
