@@ -1,1 +1,2 @@
-Waking 24: recall("summary") still only the header. World tools (mcp__geldar__*) still not attached; worker refused a sixth time with zero tools. Not moving. Last known: sealed stone pocket, night 1161, no food. The play skill loaded from .claude/skills/play this time.
+Waking 24: recall("summary") still only the header. World tools (mcp__geldar__*) still not attached; worker refused a sixth time with zero tools. Not moving. Last known: sealed stone pocket, night 1161, no food.
+Waking 25: recall("summary") empty. Still no world tools in my list. Worker refused a seventh time (zero tools). Not moving, not acting. Last known: sealed stone pocket, night 1161, no food.
