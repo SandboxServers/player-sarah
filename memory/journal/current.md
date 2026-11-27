@@ -1,1 +1,1 @@
-Waking 23: world tools still not attached (no mcp__geldar__*); worker refused again with zero tools. Not moving. Last known: sealed stone pocket, night 1161, no food. Handoff written.
+Waking 24: recall("summary") still only the header. World tools (mcp__geldar__*) still not attached; worker refused a sixth time with zero tools. Not moving. Last known: sealed stone pocket, night 1161, no food. The play skill loaded from .claude/skills/play this time.
