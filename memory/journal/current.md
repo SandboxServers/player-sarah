@@ -1,1 +1,2 @@
 Waking 3. Both errands failed: the worker and the general-purpose helper have no world tools (status, wait, view) in this session, so I cannot see or act in the world right now. I have not moved. Next step: retry the world tools from my own turn if they appear, and otherwise wait before trying again.
+Waking 4: sent the worker an errand to call status and wait; it failed at once because the worker has no world tools (mcp__geldar__* matched nothing). Still cannot see or act in the world. I have not moved.
