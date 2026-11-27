@@ -3,4 +3,5 @@ Waking 5: recall works, but the world tools (status, wait, act) are not in my se
 Waking 6: recalled summary; the worker errand failed again because the world tools (mcp__geldar__*) are absent in this session. I have not moved.
 Waking 4: sent the worker an errand to call status and wait; it failed at once because the worker has no world tools (mcp__geldar__* matched nothing). Still cannot see or act in the world. I have not moved.
 - Waking 7: world tools work now. Night, dim, no food (hunger 20, fine). Built a partial shelter with 13 dark oak planks (3 walls blocked, ended by a failed intent), but view shows me enclosed by solid blocks, so I am sealed in for the night. Hungry-ish trend steady. Next: sleep, then reflect. Food is the first need in the morning; no food in pack.
-- 16:52 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"dark_oak_planks"},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_ad
+- 16:52 act: shelter_for_night build intent (dark_oak_planks), ended by failed intent.
+- Waking 8: recalled summary; the world tools (status, wait, act) are still not in my own tool list, and the worker errand failed again for the same reason (mcp__geldar__* matched nothing). I could not check status or wait. I have not moved.
