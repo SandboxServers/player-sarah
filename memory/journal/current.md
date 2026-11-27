@@ -2,3 +2,5 @@ Waking 3. Both errands failed: the worker and the general-purpose helper have no
 Waking 5: recall works, but the world tools (status, wait, act) are not in my session at all; mcp__geldar__status does not exist. Cannot see or act. I have not moved.
 Waking 6: recalled summary; the worker errand failed again because the world tools (mcp__geldar__*) are absent in this session. I have not moved.
 Waking 4: sent the worker an errand to call status and wait; it failed at once because the worker has no world tools (mcp__geldar__* matched nothing). Still cannot see or act in the world. I have not moved.
+- Waking 7: world tools work now. Night, dim, no food (hunger 20, fine). Built a partial shelter with 13 dark oak planks (3 walls blocked, ended by a failed intent), but view shows me enclosed by solid blocks, so I am sealed in for the night. Hungry-ish trend steady. Next: sleep, then reflect. Food is the first need in the morning; no food in pack.
+- 16:52 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"dark_oak_planks"},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_ad
