@@ -6,5 +6,11 @@
 - Day 1167: hold finished, still sealed, no food in reach. Crusoe walking to the tables with planks and logs. Staying in shelter until it is quieter, then going for food.
 - Day 1167 night: still sealed in stone, health 20, hunger 20. Crusoe went north to the dark oak logs. No reply on food yet. Holding here through the night; no bed.
 - Day 1167 day again: still sealed, health 20, hunger 20. Bows keep being drawn to the north and northwest, so I am not going out. Next: when hunger drops or the sounds stop, go for food.
+- Day 1168 dusk: still sealed in stone, health 20, hunger 20, no bow sounds for a while. Staying in for the night; no bed, no food yet.
+- Day 1168 morning: left the stone shelter. First explore failed; second explore finished at -951,79,-3131, perched on dark oak leaves, 9 above ground. Fogg is nearby with 8 jungle planks and no food. Still no food seen. Hunger 20, health 20.
 - 18:41 act: {"intent":{"goal":"hold_shelter_until_clear","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":2400,"max_block_oper
 - 18:45 act: {"say":"Crusoe, I have 11 dark oak planks and no food. Do you know where any cows, sheep or chickens are?"}
+- 19:13 act: {"intent":{"goal":"search_for_food","program":"explore","arguments":{"legs":3,"leg_blocks":24,"avoid_water":true},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_w
+- 19:15 act: {"intent":{"goal":"search_for_food","program":"explore","arguments":{"legs":2,"leg_blocks":16,"avoid_water":true},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_w
+- 19:15 act: {"intent":{"goal":"search_for_food","program":"explore","arguments":{"legs":2,"leg_blocks":16,"avoid_water":true},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_w
+- 19:15 act: {"intent":{"goal":"search_for_food","program":"explore","arguments":{"legs":4,"leg_blocks":24,"avoid_water":true},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_w
