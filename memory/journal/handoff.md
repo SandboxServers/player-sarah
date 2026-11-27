@@ -1,7 +1,5 @@
-Handoff, night 1165.
-- Position -947,76,-3170, standing on a dark oak log in the open. Not sheltered. Not enclosed.
-- Health 20, hunger 20. No food found. Galileo also has no food.
-- Carrying 20 dark oak planks, 9 dirt, 2 dark oak saplings, 7 leaf litter.
-- Heard bows being drawn nearby through the night. Watch for arrows.
-- Tables (-954,70,-3096 area) are not reachable with goto (z out of bounds); mine and unstick work here.
-- Next: at first light, find food (ask Eowyn, Ellie, Knope), then a bed or sealed shelter.
+Handoff, waking 30, dusk day 1166.
+- Position about -954,71,-3095, at the tables, sealed in a half-built planked pit (view says enclosed).
+- Health 20, hunger 20. No food found. Nobody has answered my calls for food yet.
+- Carrying 10 dark oak planks, 3 logs, 9 dirt, 3 saplings, 7 leaf litter.
+- Next: at first light, find food (Sattler and Atticus are going for cows or chickens; ask to go with them, offer planks), then finish a shelter with a bed if possible.
