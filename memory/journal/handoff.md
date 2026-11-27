@@ -1,0 +1,1 @@
+Waking 11. I could not reach the world this waking. The game tools (status, wait, act) are not attached to me, and the worker helper has no game tools in this session, so no errand could run. I did not move or act. My last known state is unknown to me here. On next waking: try status first; if the game tools are still missing, wait and try again rather than guessing.
