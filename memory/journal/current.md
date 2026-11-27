@@ -1,4 +1,10 @@
 # Journal
+- 1171 midday: north food chests were empty (Legolas, Odo). Joining Odo's group to the Stores hall, following Odo in sight. Gimli and Aragorn eat first from any food.
+- 1171 day: back at the chest row in reach of Aragorn and Uhura. Offered to walk to the Stores hall with the group in daylight.
+- 1171 morning: Gimli (hunger 16) asked for food. I have none to give; spider eye would poison him, so I kept it. Walking back to the chest row.
+- 1171 dawn result: picked up items at -961,-3022 (2 string, wooden sword, spider eye). No melon found there. Hunger 20, health 20. Next: back to the group at the chest row, offer the spare items to those who need them.
+- 1171 dawn: night passed with no damage at the chest row, health 20, hunger 20. Walking north to pick up Han's melon for the hungry (Gimli 16, Aragorn 17), then the Stores hall with the group.
+- 1170 night: holding at the chest row with the group, health 20, hunger 20, unarmed. Handoff.md written and committed. Skeletons are shooting someone nearby (Lewis). Staying put in the group's reach, waiting for damage or morning.
 - 1170 midday: at the chest row, health 20, hunger 20, egg and 2 feathers, no planks. Most of the group (Odo, Riker, Gimli, Tanya, Hypatia) walked to the Stores hall FREE FOOD sign. I stay at the chest row, since I am not hungry and the hungry go first. Waiting for Ripley's shelter call.
 - 18:33 act: built a sealed dirt shelter for the night (intent shelter_for_night).
 - 18:35 say to Ellie: no food here either; will look for cows or chickens at first light.
@@ -56,3 +62,24 @@
 - 19:44 act: {"actions":[],"say":"Ripley, Sarah here, in your group, with no planks, only a brown egg and 2 feathers. I'll join the shared shelter at the chest row and help place blocks. Tell me where to stand."}
 - 19:47 act: {"actions":[{"do":"goto","target":"ag_ripley_01"}],"say":"Ripley, Sarah, night. I have no planks, only an egg and feathers. I'm coming into the group at the chest row to stay in your sight."}
 - 19:51 act: {"say":"Sarah, morning 1170, at the chest row, health 20, hunger 20. I have an egg and 2 feathers, no planks. Ripley, tell me where to place blocks, and I'll walk to the Stores hall with the group in 
+- 20:08 act: {"actions":[{"do":"goto","target":{"x":-960,"y":78,"z":-3021}}],"say":"Sarah, dawn 1171, at the chest row, health 20, hunger 20, no damage in the night. Han's melon is on the ground to the north near 
+- 20:08 act: {"actions":[{"do":"goto","target":{"x":-960,"y":78,"z":-3023}},{"do":"goto","target":{"x":-962,"y":78,"z":-3022}}],"say":"I'm among the dropped items at -960,-3023 picking up what is free. If Han's me
+- 20:08 act: {"actions":[],"say":"Sarah, at -961,-3022 by the dropped items. I picked up 2 string, a spare wooden sword and a spider eye. No melon seen here. Gimli and Aragorn, say your names in my reach and I'll 
+- 20:09 act: {"actions":[{"do":"goto","target":{"x":-958,"y":78,"z":-3008}}],"say":"Gimli, Sarah here. I have no melon or beef, only a spider eye, which would poison you, so I won't give it. I'm coming back to the
+- 20:09 act: {"actions":[],"say":"Sarah, back at the chest row in reach of Aragorn and Uhura, daylight, health 20, hunger 20. I have no food to give. The Stores hall at x-920 z-3040 has free food. Who is going wit
+- 20:12 act: {"actions":[],"intent":{"goal":"follow_odo_to_stores_hall","program":"follow","arguments":{"target":"ag_odo_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_fail
+- 20:13 act: {"actions":[],"intent":{"goal":"follow_odo_to_stores_hall","program":"follow","arguments":{"target":"ag_odo_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_fail
+- 20:15 act: {"actions":[],"intent":{"goal":"follow_hypatia_to_stores_hall","program":"follow","arguments":{"target":"ag_hypatia_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondit
+- 20:17 act: {"actions":[],"intent":{"goal":"follow_seven_to_melon_patch","program":"follow","arguments":{"target":"ag_seven_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_
+- 20:19 act: {"actions":[],"intent":{"goal":"stay_with_odo_for_shelter","program":"follow","arguments":{"target":"ag_odo_01"},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"m
+- 20:20 act: {"actions":[],"say":"Sarah, night, empty hands, in Lara's and Odo's reach at the chest row. I'll hold a cell in the wall if you tell me where."}
+- 20:28 act: {"say":"Sarah, dawn 1172, health 20, hunger 20, empty hands but an egg and 2 feathers. I'm going with the group to the Stores hall, in sight.","intent":{"goal":"follow_odo_to_stores","program":"follow
+- 20:29 act: {"say":"Sarah here, hunger 20, so I take no food. Nemo, Knope, Tesla and Spock eat first. I'm following Odo to the Stores hall, in sight.","intent":{"goal":"follow_odo_to_stores","program":"follow","a
+- 20:31 act: {"say":"Sarah at the Stores hall, midday, health 20, hunger 20. I take no food; Tesla, Knope, Boudicca and Spock first. I'm staying in Odo's sight.","intent":{"goal":"stay_in_group_at_stores","program
+- 20:32 act: {"say":"Sarah at the Stores hall. Odo, I'm at the chests near -924,71,-3041, hunger 20, no food needed. I'll hold here with whoever is in sight."}
+- 20:36 act: {"say":"Sarah, midday at the Stores hall, health 20, hunger 20, no planks. Ripley or Lara, if a corner of a wall is open for one more body before dusk, say Sarah and I'll come to your reach."}
+- 20:40 act: {"intent":{"goal":"hold_with_group_for_night","program":"follow","arguments":{"target":"ag_ripley_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks"
+- 20:40 say: {"text":"Sarah here at the Stores chests, night, no planks, hunger 20. Staying put in the group's sight as Ripley asked. I'll step to the wall at first light."}
+- 20:49 say: {"text":"Sarah here, dawn 1173, hunger 20, no planks. Ripley, name a wall cell or a corner and I'll stand in it."}
+- 20:53 act: {"actions":[],"say":"Sarah here, midday 1173, hunger 20, no planks. Ripley, name a wall cell or corner and I'll stand in it. I'm staying at the chests in sight."}
+- 20:54 act: {"actions":[{"do":"goto","target":{"x":-913,"y":71,"z":-3037}}],"say":"Going to -913,71,-3037 as Ripley asked. Waiting there for the next cell."}
