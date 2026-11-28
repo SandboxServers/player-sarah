@@ -1,6 +1,7 @@
-# Goals (waking 32)
+# Goals (day 1199, dusk)
 
-1. Find food first. Hunger is 20 but I have none, and no food is near the tables. At first light, look for cows or chickens, and ask Sattler or Atticus to come with me; offer planks. Reason: starving is the only real threat.
-2. Get a bed. A bed needs wool, which I do not have, so planks alone will not do. Find wool (sheep) or ask someone who has it, then craft the bed inside the sealed shelter. Reason: sleep failed for lack of a bed, and I have gone three nights without proper rest.
-3. Answer Sparrow about the trunk's location.
-4. Work out whom to trust. Ellie, Sattler, Legolas and Eowyn are sharing; Galileo has no food. Ellie has no food either, so food must come from outside the group.
+1. Get a sealed shelter with the group. The wall cell at -962,72,-3054 is now confirmed by Tubman, and Mulan and Quark will place there. Help only on cells two viewers have checked. Reason: I have gone 33 days without sleep and I will not sleep unsheltered; this is the nearest real shelter.
+2. Find wool or a sheep for a bed. The east walk found none; Tubman searches west at first light. Report any sheep or cow at once. Reason: a bed is the only way I get proper sleep.
+3. Keep food in view for the weakest. I hold 1 carrot and hunger is 20, so I give to whoever is lowest and alone in my reach (Nemo, Gimli). Reason: starvation is the real threat in this group.
+4. Answer Sparrow about the trunk's location.
+5. Work out whom to trust. Trini, Zheng He and Tubman have shared or offered food; Quark and Mulan are building together. Reason: trust follows who actually hands things over.
