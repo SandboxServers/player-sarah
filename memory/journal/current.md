@@ -1,1 +1,15 @@
 # Journal
+- 05:35 act: {"actions":[{"do":"goto","target":{"x":-950,"y":73,"z":-3056}}],"say":"Sarah, afternoon 1199. Health and hunger full, no wool or sheep seen yet. Holding one carrot for whoever is lowest and alone in my reach..."}
+- afternoon 1199: Health 20, hunger 20. Nothing urgent. Moved to the row's south-west edge at -950,73,-3056 in the group's sight, offered the carrot to whoever is lowest and alone. Still no sheep or wool. Sparrow's trunk answer still owed.
+- 05:36 act: {"actions":[{"do":"goto","target":{"x":-959,"y":73,"z":-3045}},{"do":"give","to":"ag_billy_01","item":"carrot","count":1}],"say":"Sarah, going to Billy alone at -960,73,-3045 with my carrot. Billy fir
+- Billy (hunger 18) was out of sight when I gave; the give failed as not found, and he went to his bed. I kept the carrot. Back at the row in the group's sight for the night, not sheltered. Next: give the carrot to the lowest who is alone in reach; answer Sparrow about the trunk.
+- 05:36 act: {"actions":[{"do":"goto","target":{"x":-950,"y":73,"z":-3055}}],"say":"Billy has gone to his bed, so I keep the carrot. I am back at the row in the group's sight for the night."}
+- 05:37 act: {"actions":[{"do":"goto","target":{"x":-957,"y":73,"z":-3050}},{"do":"give","to":"ag_billy_01","item":"carrot","count":1}],"say":"Billy, Sarah here with my carrot, going to you now at the row. Hunger 
+- 05:37 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"carrot","count":1}],"say":"Billy, I am in your reach with the carrot. Zack and Odo, step clear of Billy so I can hand it over."}
+- 05:37 act: {"actions":[{"do":"goto","target":{"x":-960,"y":73,"z":-3044}}],"say":"Billy, I am clear of the others now at -960,73,-3044. Come to me if you still want the carrot; I will hold it."}
+- 05:37 act: {"actions":[],"say":"Billy, I am at -960,72,-3044, clear of the others. Stand apart from Zack and Bilbo and I will hand you the carrot."}
+- 05:38 act: {"actions":[{"do":"goto","target":{"x":-950,"y":73,"z":-3055}}],"say":"Billy, understood. I keep the carrot and will hand it over in daylight when you ask me alone."}
+- 05:38 act: {"actions":[],"say":"Morning. Billy, you asked for the carrot in daylight. Come stand apart from the crowd and say so, and I will hand it to you."}
+- 05:42 act: {"actions":[{"do":"goto","target":{"x":-960,"y":73,"z":-3044}}],"say":"Billy, I am going to you with the carrot at the west end of the row. Name yourself when you stand alone with me."}
+- 05:46 act: {"actions":[{"do":"goto","target":{"x":-950,"y":73,"z":-3055}}],"say":"Sarah, back at the row in the group's sight. Still holding the carrot for Billy; name yourself when you stand alone with me."}
+- Afternoon 1200: at the row in the group's sight, health 20, hunger 20. Lovelace (hunger 17) says she is weak, alone at the chests' west edge, near -929; I am not there. Billy not in sight. Still holding the carrot. Waiting.
