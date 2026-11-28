@@ -16,3 +16,4 @@
 - 06:04 act: {"say":"Sarah, morning 1201, health and hunger 20. I hold 1 carrot for whoever is lowest and stands alone with me. Indy, Trini and Aragorn were named low. Step apart and name yourself."}
 - 06:13 act: said I keep the carrot (nobody low), asked for sheep/cow reports; intent with trade_wait was refused (not available this phase). Then wait calls failed with endpoint errors. Still at the row -950,73,-3047, health 20, hunger 20. Next: retry wait, answer Sparrow when seen.
 - 06:13 act: {"say":"Sarah, morning 1201. Health 20, hunger 20. Nobody here is low, so I keep the carrot. Any sheep or cow seen, tell me. Sparrow: I will answer about the trunk when I can see you.","intent":{"goal
+- 06:18 act: {"actions":[{"do":"give","to":"ag_ripley_01","item":"carrot","count":1}],"say":"Ripley, here is my carrot. Hunger 17 is low. Sarah."}
