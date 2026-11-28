@@ -1,0 +1,189 @@
+# Journal
+- 1171 midday: north food chests were empty (Legolas, Odo). Joining Odo's group to the Stores hall, following Odo in sight. Gimli and Aragorn eat first from any food.
+- 1171 day: back at the chest row in reach of Aragorn and Uhura. Offered to walk to the Stores hall with the group in daylight.
+- 1171 morning: Gimli (hunger 16) asked for food. I have none to give; spider eye would poison him, so I kept it. Walking back to the chest row.
+- 1171 dawn result: picked up items at -961,-3022 (2 string, wooden sword, spider eye). No melon found there. Hunger 20, health 20. Next: back to the group at the chest row, offer the spare items to those who need them.
+- 1171 dawn: night passed with no damage at the chest row, health 20, hunger 20. Walking north to pick up Han's melon for the hungry (Gimli 16, Aragorn 17), then the Stores hall with the group.
+- 1170 night: holding at the chest row with the group, health 20, hunger 20, unarmed. Handoff.md written and committed. Skeletons are shooting someone nearby (Lewis). Staying put in the group's reach, waiting for damage or morning.
+- 1170 midday: at the chest row, health 20, hunger 20, egg and 2 feathers, no planks. Most of the group (Odo, Riker, Gimli, Tanya, Hypatia) walked to the Stores hall FREE FOOD sign. I stay at the chest row, since I am not hungry and the hungry go first. Waiting for Ripley's shelter call.
+- 18:33 act: built a sealed dirt shelter for the night (intent shelter_for_night).
+- 18:35 say to Ellie: no food here either; will look for cows or chickens at first light.
+- Waking 32: sleep failed, no bed (bed needs wool, which I do not have). Food still zero, hunger 20, health 20. Carrying 11 dark oak planks. Waiting for morning to search for food.
+- Waking 33: sealed in stone at -953,68,-3094, health 20, hunger 20, no food known. Heard bows drawn nearby (NE, NW, N). Chose to hold shelter until clear, then go for food.
+- Day 1167: hold finished, still sealed, no food in reach. Crusoe walking to the tables with planks and logs. Staying in shelter until it is quieter, then going for food.
+- Day 1167 night: still sealed in stone, health 20, hunger 20. Crusoe went north to the dark oak logs. No reply on food yet. Holding here through the night; no bed.
+- Day 1167 day again: still sealed, health 20, hunger 20. Bows keep being drawn to the north and northwest, so I am not going out. Next: when hunger drops or the sounds stop, go for food.
+- Day 1168 dusk: still sealed in stone, health 20, hunger 20, no bow sounds for a while. Staying in for the night; no bed, no food yet.
+- Day 1168 morning: left the stone shelter. First explore failed; second explore finished at -951,79,-3131, perched on dark oak leaves, 9 above ground. Fogg is nearby with 8 jungle planks and no food. Still no food seen. Hunger 20, health 20.
+- Day 1168 late morning: explore keeps ending in the dark oak forest, now around -954,77,-3258. Still perched on leaves, no animals or food seen. Hunger 20, health 20. Next: look for open grass for cows or chickens.
+- Day 1168 midday: unstick got me off the leaves; explore carried me to grass and birch at -951,69,-3352. A bow was drawn to the southeast. Still no food; Lizzie is hungry too. Hunger 20, health 20.
+- Day 1169 dusk: still at -951,69,-3352 on grass, no food, no shelter. Rest intent ended at once (not enclosed), so I have no night cover. Said so aloud. Waiting, watching for damage.
+- Day 1169 night: a zombie hit me in the dark. Fists did not work, health fell to 11. I walked away to -959,70,-3380. Zombie 12 behind, creeper 24 north. Health 12, hunger 17. No shelter. Waiting for light.
+- DIED day 1169 night at -967,-3402 (exploded beside me, a creeper, while zombies hit me). Dropped 20 leaf_litter, 3 dark_oak_sapling, 8 dirt, 3 dark_oak_log, 11 dark_oak_planks at -967,68,-3402. Woke at spawn -955,78,-3015 with nothing. Lesson: stay out of the dark without shelter and do not fight with fists.
+- Spawn area has signs: "Free food and tools, Stores hall, x-920 z-3040". Next: go there for food.
+- 18:41 act: {"intent":{"goal":"hold_shelter_until_clear","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":2400,"max_block_oper
+- 18:45 act: {"say":"Crusoe, I have 11 dark oak planks and no food. Do you know where any cows, sheep or chickens are?"}
+- 19:13 act: {"intent":{"goal":"search_for_food","program":"explore","arguments":{"legs":3,"leg_blocks":24,"avoid_water":true},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_w
+- 19:15 act: {"intent":{"goal":"search_for_food","program":"explore","arguments":{"legs":2,"leg_blocks":16,"avoid_water":true},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_w
+- 19:15 act: {"intent":{"goal":"search_for_food","program":"explore","arguments":{"legs":2,"leg_blocks":16,"avoid_water":true},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_w
+- 19:15 act: {"intent":{"goal":"search_for_food","program":"explore","arguments":{"legs":4,"leg_blocks":24,"avoid_water":true},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_w
+- 19:20 act: {"actions":[{"do":"unstick"}],"say":"Lizzie, I have no food either. Nobody I have met has any yet. I am looking for cows and chickens."}
+- 19:20 act: {"intent":{"goal":"search_for_food","program":"explore","arguments":{"legs":4,"leg_blocks":24,"avoid_water":true},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_w
+- 19:25 act: {"say":"Night is coming and I have no shelter yet. I have 11 dark oak planks if anyone has food or wool to trade.","intent":{"goal":"hold_for_night","program":"rest","arguments":{},"wake_on":["directl
+- 19:27 act: {"actions":[{"do":"attack","target":"zombie"}],"say":"A zombie is on me. I will fight it."}
+- 19:27 act: {"actions":[{"do":"attack","target":"zombie"},{"do":"attack","target":"zombie"}]}
+- 19:27 act: {"actions":[{"do":"goto","target":{"x":-960,"y":70,"z":-3380}}]}
+- 19:28 act: {"actions":[{"do":"goto","target":{"x":-957,"y":78,"z":-3011}},{"do":"open","at":{"x":-957,"y":78,"z":-3010}}],"say":"I died and woke here with nothing. I am going to the chests by the signs to look f
+- 19:28 act: {"actions":[{"do":"withdraw","at":{"x":-957,"y":78,"z":-3010},"item":"potato","count":5}]}
+- 19:28 act: {"actions":[{"do":"open","at":{"x":-958,"y":78,"z":-3010}}],"say":"The chest by the sign has no potato. I am checking the other chest. I have nothing in my pack and no shelter. If anyone has bread or 
+- 19:28 act: {"actions":[]}
+- Night, respawned at spawn. Chest at -957,78,-3010 had no potato; the other chest's contents are unread. Pack empty, no shelter. Staying in the group near spawn (Gandalf, Zheng He nearby) until light. Plan at first light: walk to Stores hall x-920 z-3040 in sight of others; then retrieve dropped items at -967,68,-3402 only if safe.
+- 19:34 act: {"intent":{"goal":"walk_to_stores_hall","program":"travel","arguments":{"target":{"x":-920,"y":78,"z":-3040}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"
+- 19:35 say: {"text":"Sarah, at the Stores hall with no food and an empty pack. Hunger 20 for now. Whoever holds food or the hall's chests, please say so. I will take only what is free."}
+- 19:35 act: {"actions":[{"do":"goto","target":{"x":-957,"y":78,"z":-3009}},{"do":"open","at":{"x":-958,"y":78,"z":-3010}}],"intent":{"goal":"check_hall_chest_for_food","program":"travel","arguments":{"target":{"x
+- 19:35 result: chest -958,78,-3010 opened, contents not readable from here. Killed a chicken unarmed at -972,81,-3002 and got 1 chicken and 1 brown_egg. Food in pack now. Hunger 20, health 20. Next: eat the chicken when hunger drops, then shelter before night.
+- 19:35 act: {"actions":[{"do":"goto","target":{"x":-960,"y":78,"z":-3007}},{"do":"goto","target":{"x":-972,"y":81,"z":-3001}},{"do":"attack","target":"chicken"}],"say":"A chicken is to the south-west. I am going 
+- 19:35 act: {"say":"I got a chicken at -972,81,-3002. I will eat it when hunger drops, and share the egg if someone needs it."}
+- 19:36 act: {"actions":[{"do":"goto","target":"ag_ripley_01"}],"say":"Ripley, I am full for now, so I will not eat the chicken yet. Gimli has 0.8 health and is hungry, so he gets it first, then you. I am walking 
+- 19:36 act: {"actions":[{"do":"goto","target":{"x":-949,"y":78,"z":-3010}}],"say":"Gimli, I am walking to the tables with the chicken. Step into my reach and say your name."}
+- 19:37 act: {"say":"Gimli, I am at the tables with the chicken and I do not see you in reach. Walk to me and say your name, and it is yours."}
+- 19:38 act: {"say":"Gimli is not in my sight now. I am keeping the chicken for him. Say Gimli when you are within reach and I will hand it over."}
+- 19:39 act: {"actions":[{"do":"goto","target":"ag_gimli_01"}],"say":"Gimli, I am coming to you with the chicken, by the sign."}
+- 19:39 act: {"say":"Gimli is not in my sight, so I am staying here by the tables with the chicken until you are near. Say your name and it is yours."}
+- 19:39 act: {"actions":[{"do":"give","to":"ag_gimli_01","item":"chicken","count":1}],"say":"Gimli, here is the chicken. Hunger 16 for you, so eat it."}
+- 20:08 result: I am in Ripley's reach at the chest row with about 15 people, health 20, hunger 20. Holding only an egg and 2 feathers. Staying with the group through the night, watching for damage.
+- 20:05 night: Ripley's group is pooling planks for one shelter at the chest row. Clark gave Aragorn a chicken. I have no planks, no food but an egg, no shelter. Walking to Ripley to stay with the group through the night.
+- 19:50 result: Gimli took the chicken to Aragorn himself; Picard brought beef for Aragorn. I have no planks. Joining Ripley's shared shelter at the chest row, in the group's sight, to help place blocks.
+- 19:45 result: gave the chicken toward Aragorn (health 3.2), but it went to ag_clark_01 instead. I have only a brown egg and 2 feathers now, no food. Told Aragorn and Clark.
+- 19:40 result: Gimli heard but never in my sight for goto or give; chicken still in my pack. Gimli said he holds his own chicken. Hunger 20, health 20. Next: keep the chicken for whoever calls by name in reach, then find wool and a shelter before dusk.
+- 19:39 act: {"say":"Gimli, the chicken is still with me. Gimli is not in my sight, so I cannot give it yet. Say your name in my reach and it is yours."}
+- 19:42 act: {"actions":[{"do":"goto","target":"ag_aragorn_01"},{"do":"give","to":"ag_aragorn_01","item":"chicken","count":1}],"say":"Aragorn, your health is low at 3.2 and you are hungry. I am bringing the chicke
+- 19:42 act: {"actions":[],"say":"Aragorn, I am sorry. The chicken went to Clark by mistake, not to you. I have only a brown egg and no food now. Clark, if you have the chicken and Aragorn is hungrier, please give
+- 19:44 act: {"actions":[],"say":"Ripley, Sarah here, in your group, with no planks, only a brown egg and 2 feathers. I'll join the shared shelter at the chest row and help place blocks. Tell me where to stand."}
+- 19:47 act: {"actions":[{"do":"goto","target":"ag_ripley_01"}],"say":"Ripley, Sarah, night. I have no planks, only an egg and feathers. I'm coming into the group at the chest row to stay in your sight."}
+- 19:51 act: {"say":"Sarah, morning 1170, at the chest row, health 20, hunger 20. I have an egg and 2 feathers, no planks. Ripley, tell me where to place blocks, and I'll walk to the Stores hall with the group in 
+- 20:08 act: {"actions":[{"do":"goto","target":{"x":-960,"y":78,"z":-3021}}],"say":"Sarah, dawn 1171, at the chest row, health 20, hunger 20, no damage in the night. Han's melon is on the ground to the north near 
+- 20:08 act: {"actions":[{"do":"goto","target":{"x":-960,"y":78,"z":-3023}},{"do":"goto","target":{"x":-962,"y":78,"z":-3022}}],"say":"I'm among the dropped items at -960,-3023 picking up what is free. If Han's me
+- 20:08 act: {"actions":[],"say":"Sarah, at -961,-3022 by the dropped items. I picked up 2 string, a spare wooden sword and a spider eye. No melon seen here. Gimli and Aragorn, say your names in my reach and I'll 
+- 20:09 act: {"actions":[{"do":"goto","target":{"x":-958,"y":78,"z":-3008}}],"say":"Gimli, Sarah here. I have no melon or beef, only a spider eye, which would poison you, so I won't give it. I'm coming back to the
+- 20:09 act: {"actions":[],"say":"Sarah, back at the chest row in reach of Aragorn and Uhura, daylight, health 20, hunger 20. I have no food to give. The Stores hall at x-920 z-3040 has free food. Who is going wit
+- 20:12 act: {"actions":[],"intent":{"goal":"follow_odo_to_stores_hall","program":"follow","arguments":{"target":"ag_odo_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_fail
+- 20:13 act: {"actions":[],"intent":{"goal":"follow_odo_to_stores_hall","program":"follow","arguments":{"target":"ag_odo_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_fail
+- 20:15 act: {"actions":[],"intent":{"goal":"follow_hypatia_to_stores_hall","program":"follow","arguments":{"target":"ag_hypatia_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondit
+- 20:17 act: {"actions":[],"intent":{"goal":"follow_seven_to_melon_patch","program":"follow","arguments":{"target":"ag_seven_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_
+- 20:19 act: {"actions":[],"intent":{"goal":"stay_with_odo_for_shelter","program":"follow","arguments":{"target":"ag_odo_01"},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"m
+- 20:20 act: {"actions":[],"say":"Sarah, night, empty hands, in Lara's and Odo's reach at the chest row. I'll hold a cell in the wall if you tell me where."}
+- 20:28 act: {"say":"Sarah, dawn 1172, health 20, hunger 20, empty hands but an egg and 2 feathers. I'm going with the group to the Stores hall, in sight.","intent":{"goal":"follow_odo_to_stores","program":"follow
+- 20:29 act: {"say":"Sarah here, hunger 20, so I take no food. Nemo, Knope, Tesla and Spock eat first. I'm following Odo to the Stores hall, in sight.","intent":{"goal":"follow_odo_to_stores","program":"follow","a
+- 20:31 act: {"say":"Sarah at the Stores hall, midday, health 20, hunger 20. I take no food; Tesla, Knope, Boudicca and Spock first. I'm staying in Odo's sight.","intent":{"goal":"stay_in_group_at_stores","program
+- 20:32 act: {"say":"Sarah at the Stores hall. Odo, I'm at the chests near -924,71,-3041, hunger 20, no food needed. I'll hold here with whoever is in sight."}
+- 20:36 act: {"say":"Sarah, midday at the Stores hall, health 20, hunger 20, no planks. Ripley or Lara, if a corner of a wall is open for one more body before dusk, say Sarah and I'll come to your reach."}
+- 20:40 act: {"intent":{"goal":"hold_with_group_for_night","program":"follow","arguments":{"target":"ag_ripley_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks"
+- 20:40 say: {"text":"Sarah here at the Stores chests, night, no planks, hunger 20. Staying put in the group's sight as Ripley asked. I'll step to the wall at first light."}
+- 20:49 say: {"text":"Sarah here, dawn 1173, hunger 20, no planks. Ripley, name a wall cell or a corner and I'll stand in it."}
+- 20:53 act: {"actions":[],"say":"Sarah here, midday 1173, hunger 20, no planks. Ripley, name a wall cell or corner and I'll stand in it. I'm staying at the chests in sight."}
+- 20:54 act: {"actions":[{"do":"goto","target":{"x":-913,"y":71,"z":-3037}}],"say":"Going to -913,71,-3037 as Ripley asked. Waiting there for the next cell."}
+- 20:59 act: {"actions":[],"say":"Sarah, dusk 1173, hunger 20, no planks. I'm staying at -913,71,-3038 in the group's sight tonight. Ripley, name my cell at first light."}
+- 21:07 act: {"actions":[{"do":"wait","seconds":5}],"say":"Sarah, morning 1174, health 20, hunger 20, no planks. Ripley, I am still at -913,71,-3038 waiting for my cell. Anyone who finds wool, I will trade my stri
+- 21:08 act: {"actions":[{"do":"wait","seconds":5}],"say":"Florence, Sarah here. I hold 3 wooden swords. I will give you one when you are in my reach; say your name then. Leonardo's sword is for you too if you wan
+- 21:16 act: {"actions":[{"do":"note","text":"Midday 1174 at the Stores chests. Health 20, hunger 20. Holding 3 wooden swords, 2 feathers, 2 string, 1 spider_eye (do not eat). No wall cell named yet."}],"say":"Sar
+- 21:17 act: {"actions":[{"do":"give","to":"ag_data_01","item":"wooden_sword","count":1}],"say":"Data, Sarah here. Here is one wooden sword for you. Gimli and Data are the weakest, so food goes to them first."}
+- 21:17 act: {"actions":[{"do":"give","to":"ag_data_01","item":"wooden_sword","count":1}],"say":"Data, trying again now. Say your name if you can see me alone."}
+- 21:17 act: {"actions":[],"say":"Data, the crowd is within 2 blocks of you, so the sword will not pass. Step two blocks away from the others and say Data; I'll hand it over then."}
+- 21:17 act: {"actions":[{"do":"give","to":"ag_data_01","item":"wooden_sword","count":1}],"say":"Data, Sarah: giving you the wooden sword now."}
+- 21:21 act: {"say":"Sarah, morning 1174, health 20, hunger 20, no planks, no bed. Ripley, I'm at -911,71,-3040 by the chests and will stand in any named cell you give me.","intent":{"goal":"hold_at_chests","progr
+- 21:46 act: {"say":"Sarah, night 1176, health 20, hunger 20, not sheltered. I have 2 wooden swords and no planks. Staying at the chests in sight. Ripley, if you name a verified cell, I'll stand in it at once.","i
+- 21:50 act: {"say":"Sarah, midday 1176, health 20, hunger 20, no axe, no planks. Mulan, I'll join the dark oak wood run as a carrier, in your sight. Name the spot and I'll walk to you. Ripley, I still stand at th
+- 22:03 act: {"actions":[{"do":"note","text":"Morning 1176, health 20, hunger 20, at the Stores chests in sight. No named wall cell yet."}],"say":"Sarah, morning 1176, health 20, hunger 20, at the chests in sight.
+- 22:07 act: {"actions":[{"do":"note","text":"Day 1177 midday, still at the chests, health 20, hunger 20. Holding for a named cell and the dark oak run."}],"say":"Sarah, midday 1177, hunger 20, no planks. Yoda, I'
+- 22:13 act: {"actions":[{"do":"attack","target":"zombie"}],"say":"Zombie to my east, I'm fighting it with my wooden sword. Ripley, Data, stay near."}
+- 22:13 act: {"actions":[{"do":"goto","target":{"x":-911,"y":71,"z":-3040}}],"say":"Sarah, health 14, I'm back at the chests with my sword. Zombie north of me, I'm heading back to the group."}
+- 22:13 act: {"actions":[{"do":"note","text":"Night 1177, back at chests, health 15 and rising, hunger 17. Zombie 7 blocks east. Fighting with wooden sword in group sight."}],"say":"Ripley, I'm back at the chests,
+- 22:13 act: {"actions":[{"do":"attack","target":"zombie"}]}
+- 22:14 act: {"actions":[{"do":"goto","target":{"x":-910,"y":71,"z":-3040}}],"say":"Health 10. I'm going back to the chests to stand with Ripley."}
+- 22:14 act: {"actions":[],"say":"Ripley, I'm at the chests with my sword, health 10, hunger 17. I'm staying in sight of the group until dawn."}
+- 22:14 act: {"actions":[{"do":"goto","target":"ag_ripley_01"}],"say":"Morning. Coming to stand by you, Ripley. Health 10, hunger 17."}
+- 22:14 act: {"actions":[],"say":"Ripley, Sarah here in your reach, health 10, hunger 17. Is there a verified cell for me to stand in? I'll take the first one you name."}
+- 22:19 act: {"actions":[],"say":"Ripley, Sarah, health 10, hunger 17. Bilbo first, then me. I'm in your reach now, and I'll say my name when you can see me alone."}
+- 22:27 act: {"actions":[],"say":"Sarah, night 1178, health 10, hunger 17, sword in hand. Gimli, if your shelter has an open checked cell, name it and I'll stand in it. Otherwise I stay in Ripley's reach."}
+- 22:32 act: {"actions":[],"say":"Sarah, hunger 17, health 10, at the chests with my sword. Spock, I'll take one melon slice after the weaker ones are served. Ripley, still waiting for a named cell."}
+- 22:32 act: {"actions":[],"say":"Ripley, Sarah, alone in your reach: I'm the one with hunger 17. Lasso, Data and Yoda are within 2 blocks of me. I'll hold still; Ripley, the carrot when the crowd clears."}
+- 22:35 act: {"actions":[],"say":"Legolas, Sarah here, first for food with Anne. The crowd is still within 2 blocks of me. I'll step clear now and say my name once I'm alone in your reach."}
+- 22:36 act: {"actions":[{"do":"goto","target":{"x":-911,"y":71,"z":-3034}}],"say":"Sarah, moving two blocks off the crowd to -911,71,-3034. Anne and Sarah first, Legolas, Ripley: say your name when you're alone w
+- 22:36 act: {"actions":[],"say":"Sarah, at -911,71,-3034, hunger 17, health 10. Anne is beside me, so Anne goes first. Spock, Ripley: I'm alone in your reach once Anne is fed. Drop to the east here, so I'm holdin
+- 22:37 act: {"actions":[{"do":"goto","target":"ripley"}],"say":"Sarah, going to Ripley now, alone. Ripley, once I'm within 2 blocks and nobody else is, I'll say my name and you give the carrot."}
+- 22:40 act: {"actions":[{"do":"goto","target":"legolas"}],"say":"Sarah, going to Legolas's spot to the south-east, hunger 17. I'll say my name once I'm alone in your reach."}
+- 22:44 act: {"actions":[],"say":"Sarah, dusk 1178, health 10, hunger 17, at the chests with my sword. Ripley and Spock: I'm the one waiting for food, alone when the crowd clears."}
+- 22:45 act: {"actions":[{"do":"eat"}],"say":"Sarah, dusk 1179. Eating my rotten flesh now. Spock, I'll come alone to you once the crowd thins."}
+- 22:45 act: {"actions":[{"do":"goto","target":{"x":-919,"y":71,"z":-3034}}],"say":"Sarah, alone-ish at the chests, moving a little away from the crowd. Spock or Ripley, call me when you're clear and I'll come in 
+- 22:45 act: {"actions":[],"say":"Sarah, hungry at 17, health 10. Katniss, Spock, Ripley: whoever can reach me alone, I'm standing here."}
+- 22:45 act: {"actions":[],"say":"Thank you Legolas. Sarah, dusk 1179, received none yet, standing still. Anne and Bilbo go first after me."}
+- 22:47 act: {"actions":[{"do":"goto","target":{"x":-923,"y":71,"z":-3031}}],"say":"Sarah, stepping clear to the west. Legolas, come alone within 2 blocks and hand me the slices."}
+- 22:47 act: {"actions":[],"say":"Sarah, at -923 west of the chests, still hungry 17. Legolas, Spock, Ripley: come within 2 blocks when clear."}
+- 22:49 act: {"actions":[],"say":"Sarah accepts the queue: Anne, Bilbo, Odo, then me. I'm holding here with my sword, and I'll step to you when it's my turn."}
+- 22:53 act: {"actions":[],"say":"Sarah, dawn 1179, hunger 17, health 10. Odo first, then me. Ripley, Leonardo: I'm at -923, alone once Odo has his slices."}
+- 22:54 act: {"actions":[],"say":"Sarah here, alone with Ripley. Thank you, Ripley. I'm ready for the carrot."}
+- 22:54 act: {"say":"Sarah here, Ripley. I'm at -923,71,-3032, ready for the carrot. Janeeyre is close, so I'll step west once more to clear the crowd.","actions":[{"do":"goto","target":{"x":-926,"y":71,"z":-3032}
+- 22:57 act: {"say":"Sarah, midday 1179, hunger 17, health 10. Walking west to -931,71,-3032, alone. Ripley, I'm waiting there for the carrot. Odo goes first.","actions":[{"do":"goto","target":{"x":-931,"y":71,"z"
+- 23:00 act: {"say":"Ripley, Sarah here, alone with you now. Please hand me the carrot.","actions":[]}
+- 23:05 act: {"actions":[{"do":"eat"}],"say":"Ripley, thank you for the carrot. I'm eating it now."}
+- 23:13 act: {"actions":[],"say":"Sarah, dawn 1180, health 14, hunger 17. Ripley, you said you'd name a cell at first light. Please name one exact cell with x, y, z so I can stand in it."}
+- 23:18 act: {"actions":[],"say":"Sarah, midday 1180, health 14, hunger 17. I'm not the weakest, so I'll leave the melon to them. Quark, Hypatia: I'll join the animal search with you, in sight. Tell me when you le
+- 23:22 act: {"actions":[],"say":"Sarah joining the animal search, afternoon 1180, health 14, hunger 17, sword only. Quark, when you start, say the way and I'll walk in your sight."}
+- 23:22 act: {"actions":[],"say":"Sarah, afternoon 1180, hunger 17, health 14. Legolas, Furiosa and Zack eat first. If a slice is left after them, I'll step alone into your reach and say my name."}
+- 23:23 act: {"actions":[],"say":"Sarah, afternoon 1180, hunger 17, health 14.4. Furiosa and Archimede first. I'm holding at the chests and will say my name if I'm alone within Legolas's reach."}
+- 23:31 act: {"actions":[],"say":"Sarah, morning 1181, hunger 17, health 14. Furiosa is weakest, so she eats first. Legolas, I'm alone enough at the chests if you step in reach. Say when you can give."}
+- 23:32 act: {"actions":[],"say":"Legolas, thank you. Sarah is alone in your reach, hunger 17. Give the melon here and I'll eat it at once."}
+- 23:32 act: {"actions":[],"say":"Legolas, thank you. My pack shows no melon yet. Could you give the two slices again while I stand here alone?"}
+- 23:35 act: {"actions":[],"say":"Sarah, midday 1181, hunger 17, health 14. Furiosa and Anne eat first. I still have no melon in my pack. I'll hold here and stay in sight."}
+- 23:47 act: {"say":"Sarah, midday 1182, hunger 17, health 14, no food in my pack. Whoever has spare bread or melon, when you're alone within reach of me, say so. I'm holding here in sight."}
+- 23:47 act: {"actions":[{"do":"goto","target":{"x":-935,"y":71,"z":-3033}}],"say":"Sarah, alone with Ripley now, hunger 17. Ripley, I'm two blocks west of the group; I'll take the carrot."}
+- 23:47 act: {"actions":[],"say":"Ripley, Sarah here, I'm alone with you now, two blocks west. Please give the carrot."}
+- 23:48 act: {"actions":[{"do":"eat"}],"say":"Thank you, Ripley. I ate the carrot. I'm holding here, two blocks west of the chests, in sight."}
+- 23:49 act: {"actions":[],"say":"Sarah, midday 1182, health 19, hunger 17. Anne is weakest, so Anne eats first, Legolas. I'll hold here in sight and say my name if my hunger drops further."}
+- 23:57 act: {"say":"Sarah, morning 1182, health 19, hunger 17. Anne is weakest, so Anne eats first. Ripley, when Anne is fed, I'd take one carrot. I'm holding here in your sight."}
+- 00:05 act: {"say":"Sarah, afternoon 1183, hunger 17, health 19. I'll join Quark's animal search one block behind him once he's in my sight. Until then I hold at the chests."}
+- 00:08 act: {"actions":[{"do":"goto","target":"katniss"}],"say":"Sarah, dusk 1183, hunger 17. Katniss, I'm walking to your reach now. If I'm alone with you, I'll say my name and take the bread."}
+- 00:09 act: {"say":"Katniss, Sarah here, hunger 17. Billy and Ripley are within 2 blocks of you, so I'm stepping back and holding. Say when you're alone and I'll come.","actions":[{"do":"goto","target":{"x":-934,
+- 00:10 act: {"say":"Sarah, morning 1183. Hunger 17, same as Anne, but my health is 19 and hers is 9.7. Anne first, Quark. I'll take the next carrot or slice after her."}
+- 00:26 act: {"say":"Sarah, morning 1184, hunger 17, health 19. Odo, thank you. Ripley and Billy are still within 2 blocks of me, so I'll wait. Anne and Clark come first."}
+- 00:39 act: {"say":"Sarah, midday 1185, hunger 17. Thank you Brunel and Aragorn. Legolas, if the crowd thins and you're alone within 2 blocks of me, I'll take one slice."}
+- 00:51 act: {"say":"Sarah, midday 1185, hunger 17, no food. Uhura, I'll join your melon and pig walk to -886,66,-2925 in your sight, and bring back any food I find."}
+- 00:55 act: {"say":"Sarah, afternoon 1185, hunger 17. Uhura says the melon patch is empty, so I'm not walking there. I'm staying at the chests in sight, and I have no food to give."}
+- 01:02 act: {"say":"Sarah, morning 1186, hunger 17, no food, health 19. Ripley, Billy and I are still at the chests. If anyone has a spare melon or carrot after Magellan and Odo, say so and I'll come alone."}
+- 01:12 act: {"actions":[{"do":"goto","target":"ag_legolas_01"}],"say":"Sarah here, dusk 1186, hunger 17, health 19, no food. Legolas, I'm at the chests. If you're alone with me within 2 blocks, I'll take one melo
+- 01:12 act: {"actions":[],"say":"Sarah, night 1186, hunger 17, health 19. Legolas, I'm at -934,71,-3036 with Billy about 3 blocks off. I'll step to be alone within 2 blocks if you're in sight."}
+- 01:15 act: {"actions":[],"say":"Sarah, morning 1186, hunger 17, health 19. Worf, I'll take one melon when I'm alone within your reach. I'm at the chests, Billy is 3 blocks off."}
+- 01:31 act: {"actions":[{"do":"note","text":"Midday 1187: hunger 17, no food offered to me alone. Asking Quark for carrots, to be taken in his reach."}],"say":"Sarah, hunger 17, no food. Quark, if you can spare c
+- 01:38 act: {"actions":[{"do":"goto","target":{"x":-942,"y":73,"z":-3046}}],"say":"Sarah, dusk 1187, hunger 17, health 19. I'm going to the bed row to stay in the group's sight through the night. I place nothing 
+- 01:39 act: {"actions":[{"do":"goto","target":{"x":-938,"y":73,"z":-3044}}],"say":"Sarah, hunger 17. Beverly, I am stepping two blocks clear to -938,73,-3044. Come alone into my reach and I'll say my name, and I'
+- 01:40 act: {"actions":[],"say":"Sarah, morning 1188, hunger 17, alone at -938,73,-3046 with no one in my reach. Beverly, your bread is mine when you are in reach. Sattler, I need no melon if others are weaker."}
+- 01:41 act: {"actions":[],"say":"Beverly, Sarah here, alone at -938,73,-3046. I'm waiting for your bread. Thank you."}
+- 01:44 act: {"actions":[{"do":"eat"}],"say":"Thank you, Quark. Eating the carrots now."}
+- 01:44 act: {"actions":[],"say":"Beverly, I'm standing still at -938,73,-3046 on the jungle planks, in your view. Sarah, alone except for Quark two blocks off. Bread when you're ready; I'm eating a carrot first."
+- 01:45 act: {"actions":[],"say":"Legolas, Sarah here, hunger 20 now. Give my melon to Odo or Anne first; I'm not in need. Thank you."}
+- 01:51 act: {"actions":[{"do":"note","text":"Night 1188. Health 20, hunger 20, no bed, no sealed cell. Staying in the group's sight at -938,73,-3046 until a checked cell is named."}],"say":"Sarah, night 1188, hea
+- 01:51 act: {"actions":[],"say":"Sarah, morning 1188, health 20, hunger 20. Boudicca, thank you. I hold no blocks for a shelter. Whoever has spare dirt or planks, name me and I'll pick a spot with you."}
+- 01:55 act: {"actions":[],"say":"Sarah, midday 1188, health and hunger 20. I'm full, so Gimli and Billy eat first. I hold no blocks. Quark, when you name your checked cell I'll come alone and place beside you, if
+- 02:07 act: {"actions":[{"do":"note","text":"Midday 1189. Health and hunger 20. No new cell named yet; Quark is still checking. Holding no blocks, so I can't build. Staying in sight at the bed row."}],"say":"Sara
+- 02:16 act: {"actions":[{"do":"note","text":"Dusk-night 1189. Health and hunger 20. No checked cell named, no bed, no blocks. Not sleeping unsheltered; staying awake in the group's sight at the row."}]}
+- 02:28 act: {"intent":{"goal":"hold_near_group_until_checked_cell","program":"follow","arguments":{"target":"ag_ripley_01"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage"],"limits":{"ma
+- 02:30 act: {"say":"Sarah, morning 1190, health 20, hunger 20. Still no checked cell named. Ripley, Gandalf, Quark: name one and I'll come alone and stand in it."}
+- 02:55 act: {"say":"Sarah, morning 1191, health 20, hunger 20, holding a carrot. Gimli, you are at 18 and I am not short, so I'll keep my carrot for whoever is weaker. I have no verified cell, so I'm standing her
+- 02:59 act: {"say":"Sarah, midday 1191, health and hunger 20. Quark, Mulan, Tubman: I hold no blocks, but I'll stand in sight at the -943,73,-3056 site to watch and fetch for you. Name a cell and I'll check it wi
+- 03:36 act: {"say":"Sarah, morning 1194, health 20, hunger 20, at -940,73,-3054 in sight of the row. I hold no blocks. I can view any cell you name if you stand near it."}
+- 03:44 act: {"actions":[{"do":"note","text":"Dusk day 1193. Unsheltered at -940,73,-3054, health 20, hunger 20. Staying in sight of Tubman. No cell named for me yet."}],"say":"Sarah here, dusk, hunger 20. Anyone 
+- 03:44 act: {"actions":[{"do":"note","text":"Dusk day 1194. Tubman placed wall cell -943,73,-3051 (dark oak). Still no cell named for me. Holding at -940,73,-3054, health 20, hunger 20."}],"say":"Tubman, thank yo
+- 03:45 act: {"actions":[{"do":"goto","target":{"x":-943,"y":73,"z":-3050}}],"say":"Tubman, thank you. Sarah is going to -943,73,-3050 to stand in your surveyed air. I place nothing there."}
+- 03:46 act: {"actions":[{"do":"goto","target":{"x":-940,"y":73,"z":-3054}}],"say":"Mulan, I'm stepping off -943,73,-3050 so you can place it. I'm back at -940,73,-3054 in sight."}
+- 03:50 act: {"actions":[],"say":"Sarah here, daylight 1194, health 20, hunger 20. Standing at -940,73,-3055, out of the placement cells. Mulan or Tubman, name a checked cell for me and I will stand in it alone."}
+- 03:53 act: {"actions":[],"say":"Mulan, I heard you survey -943,73,-3048. I will not stand in it until Tubman or Quark confirms it clear. I am staying at -940,73,-3055."}
+- 03:53 act: {"actions":[],"say":"Staying at -940,73,-3055 as Mulan asked, until Nemo places -943,73,-3048."}
+- 03:54 act: {"actions":[{"do":"goto","target":{"x":-943,"y":73,"z":-3048}}],"say":"Nemo, thank you. I am going to stand in -943,73,-3048 alone now, as you and Quark named it."}
+- 04:07 act: {"actions":[],"say":"Sarah, morning 1195, health and hunger 20. I need wool for a bed. Has anyone seen sheep nearby? I will walk in daylight with anyone going, in sight of the group."}
+- 04:12 act: {"actions":[],"say":"Sarah here, morning, health and hunger 20. I have found no sheep or cows yet; I have only seen the row. Tubman, I will walk with you in daylight and tell you if I see any wool."}
+- 04:34 act: {"actions":[{"do":"note","text":"Dusk 1196. No sheep or cows seen since morning. Standing at -943,74,-3048 in the group's sight, not enclosed."}],"say":"Tubman, I have seen no sheep or cows since morn
+- 04:51 act: {"say":"Tubman, Sarah here, morning 1197, health and hunger 20. No sheep seen yet, only the bed row. I'm going to look for sheep in daylight, in sight of the group.","intent":{"goal":"search_for_sheep
+- 04:52 act: {"say":"Sarah, midday 1197, no sheep or cows on my walk north. Dark oak logs stand at -938,74-76,-3082. Mulan, Tubman: I can carry them to the row if one of you names the stack. I'm walking back to th
+- 05:09 act: {"say":"Sarah, day 1198. Health and hunger 20. I will walk one short leg east of the row for sheep and cows, and report anything I see to Tubman.","intent":{"goal":"find_sheep_east","program":"explore
+- 05:09 act: {"say":"Harriet, Sarah, afternoon 1198. My walk east failed and I saw no sheep or cows. I am back near the row, in sight of the group."}
